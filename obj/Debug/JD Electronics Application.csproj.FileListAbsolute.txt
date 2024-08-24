@@ -1,0 +1,673 @@
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.AssemblyReference.cache
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Accountant_Dashboard.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.AdministratorDashborad.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Cashier_Dashboard.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Site_Engineer_Dashboard.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Stock_Manager_Dashboard.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Adminstrator.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Cachier_Home.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Employee.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Administrator_User_Control.Employee_UC_Admin.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Financial_User_control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.log_out_user_control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Manager_User_Control.Employee_User_Control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports_User_Control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Schedule_user_control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Stock_User_Control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Supplier_user_Control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Manager_Dashboard.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Login_Form.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Properties.Resources.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Register_Form.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.User_Status_Form.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Update_Form.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Help_User_Control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.GenerateResource.cache
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.CoreCompileInputs.cache
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Add_Customer.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Project_user_control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Worker_Dashboard.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Schedule_UC_Employee.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_User_Control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe.config
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.pdb
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.exe
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.pdb
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_Item_UC.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Bill_Estimate.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Return_Item.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Create_Invoice.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Stock_Manager.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Item_UC_StcokManager.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Pay_Sheet_User_Control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Salary_user_Control.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Site_Enginer.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_User_Control_SE.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_Progress_uc.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Accountant.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.UserAccount_Panel_Form.resources
+E:\Final Project\Implement app\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Home_ManagerUC.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe.config
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.pdb
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.AssemblyReference.cache
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Accountant_Dashboard.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.AdministratorDashborad.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Cashier_Dashboard.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Worker_Dashboard.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Site_Engineer_Dashboard.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Stock_Manager_Dashboard.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Accountant.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Adminstrator.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Cachier_Home.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Site_Enginer.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Stock_Manager.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Employee.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Pay_Sheet_User_Control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Salary_user_Control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Administrator_User_Control.Employee_UC_Admin.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Bill_Estimate.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Create_Invoice.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Return_Item.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_Progress_uc.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_User_Control_SE.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Item_UC_StcokManager.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Add_Customer.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Project_user_control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Schedule_UC_Employee.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Financial_User_control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_Item_UC.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.log_out_user_control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Manager_User_Control.Employee_User_Control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports_User_Control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Schedule_user_control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Stock_User_Control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Supplier_user_Control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.UserAccount_Panel_Form.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Home_ManagerUC.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Manager_Dashboard.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Login_Form.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_User_Control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Properties.Resources.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Register_Form.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.User_Status_Form.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Update_Form.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Help_User_Control.resources
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.GenerateResource.cache
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.CoreCompileInputs.cache
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.exe
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.pdb
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\EnvDTE.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\stdole.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Elect.65E9CD04.Up2Date
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe.config
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.pdb
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\EnvDTE.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\stdole.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.AssemblyReference.cache
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Accountant_Dashboard.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.AdministratorDashborad.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Cashier_Dashboard.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Worker_Dashboard.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Site_Engineer_Dashboard.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Stock_Manager_Dashboard.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Accountant.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Adminstrator.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Cachier_Home.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Site_Enginer.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Stock_Manager.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Employee.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Pay_Sheet_User_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Salary_user_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Administrator_User_Control.Employee_UC_Admin.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Bill_Estimate.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Create_Invoice.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Return_Item.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_Progress_uc.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_User_Control_SE.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Item_UC_StcokManager.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Add_Customer.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Project_user_control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Schedule_UC_Employee.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Financial_User_control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_Item_UC.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Search_Result_user_control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Manager_User_Control.Employee_User_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports_User_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Schedule_user_control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Stock_User_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Supplier_user_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.UserAccount_Panel_Form.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Home_ManagerUC.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Manager_Dashboard.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Login_Form.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_User_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Properties.Resources.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Profile_User_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Register_Form.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.User_Status_Form.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Update_Form.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Help_User_Control.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.GenerateResource.cache
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.CoreCompileInputs.cache
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Elect.65E9CD04.Up2Date
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.exe
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.pdb
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Reset_Password.resources
+E:\Final Project\Implement app\2nd Atempt\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Show_Reset_Form_user_control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe.config
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.pdb
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\EnvDTE.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\stdole.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.AssemblyReference.cache
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Accountant_Dashboard.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.AdministratorDashborad.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Cashier_Dashboard.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Worker_Dashboard.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Site_Engineer_Dashboard.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Stock_Manager_Dashboard.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Accountant.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Adminstrator.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Cachier_Home.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Site_Enginer.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Stock_Manager.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Employee.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Pay_Sheet_User_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Salary_user_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Administrator_User_Control.Employee_UC_Admin.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Bill_Estimate.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Create_Invoice.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Return_Item.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_Progress_uc.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_User_Control_SE.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Item_UC_StcokManager.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Add_Customer.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Project_user_control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Schedule_UC_Employee.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Financial_User_control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_Item_UC.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Reset_Password.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Search_Result_user_control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Manager_User_Control.Employee_User_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports_User_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Schedule_user_control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Stock_User_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Supplier_user_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.UserAccount_Panel_Form.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Home_ManagerUC.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Manager_Dashboard.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Login_Form.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_User_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Properties.Resources.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Profile_User_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Register_Form.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.User_Status_Form.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Update_Form.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Help_User_Control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Show_Reset_Form_user_control.resources
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.GenerateResource.cache
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.CoreCompileInputs.cache
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Elect.65E9CD04.Up2Date
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.exe
+D:\JD_System\JDCE\JD Electronics Application\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.pdb
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe.config
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.pdb
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.Shared.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\MetroFramework.Design.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\MetroFramework.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\MetroFramework.Fonts.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\EnvDTE.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\stdole.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.AssemblyReference.cache
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Accountant_Dashboard.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.AdministratorDashborad.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Cashier_Dashboard.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Worker_Dashboard.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Site_Engineer_Dashboard.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Stock_Manager_Dashboard.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Accountant.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Adminstrator.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Cachier_Home.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Site_Enginer.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Stock_Manager.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Employee.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Pay_Sheet_User_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Salary_user_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Administrator_User_Control.Employee_UC_Admin.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Bill_Estimate.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Create_Invoice.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Return_Item.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Manager_User_Control.Available_Stock_Report.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports.Business_Analyst_Report.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports.Stock_Buying_Report.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports.User_Login_Credential_Report.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_Progress_uc.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_User_Control_SE.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Item_UC_StcokManager.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Add_Customer.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Project_user_control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Schedule_UC_Employee.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Financial_User_control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_Item_UC.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Reset_Password.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Manager_User_Control.Employee_User_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports_User_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Schedule_user_control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Stock_User_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Supplier_user_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.UserAccount_Panel_Form.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Home_ManagerUC.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Manager_Dashboard.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Login_Form.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_User_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Properties.Resources.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Profile_User_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Register_Form.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.User_Status_Form.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Update_Form.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Help_User_Control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Show_Reset_Form_user_control.resources
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.GenerateResource.cache
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.CoreCompileInputs.cache
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD Elect.65E9CD04.Up2Date
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.exe
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.pdb
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.exe.manifest
+D:\GAD\JD Electronics Application\JD Electronics Application\bin\Debug\JD Electronics Application.application
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.exe.manifest
+D:\GAD\JD Electronics Application\JD Electronics Application\obj\Debug\JD Electronics Application.application
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.AssemblyReference.cache
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Accountant_Dashboard.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.AdministratorDashborad.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Cashier_Dashboard.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Worker_Dashboard.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Site_Engineer_Dashboard.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Dashboard.Stock_Manager_Dashboard.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Accountant.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Adminstrator.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Cachier_Home.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Site_Enginer.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Stock_Manager.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Home_Panel.Home_Employee.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Pay_Sheet_User_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Accountant_UC.Salary_user_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Administrator_User_Control.Employee_UC_Admin.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Bill_Estimate.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Create_Invoice.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Cashier_UC.Return_Item.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Manager_User_Control.Available_Stock_Report.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports.Business_Analyst_Report.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports.Stock_Buying_Report.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports.User_Login_Credential_Report.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_Progress_uc.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Site_Engineer_UC.Project_User_Control_SE.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Item_UC_StcokManager.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Add_Customer.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Project_user_control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Schedule_UC_Employee.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Financial_User_control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_Item_UC.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Reset_Password.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Manager_User_Control.Employee_User_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Reports_User_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Schedule_user_control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Stock_User_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Supplier_user_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.UserAccount_Panel_Form.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Home_ManagerUC.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Manager_Dashboard.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Login_Form.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Worker_UC.Worker_User_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Properties.Resources.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Profile_User_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Register_Form.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.User_Status_Form.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Customer_Update_Form.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Help_User_Control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Sub_UserControl.Show_Reset_Form_user_control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.GenerateResource.cache
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD Electronics Application.csproj.CoreCompileInputs.cache
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD Electronics Application.exe
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD Electronics Application.pdb
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\JD Electronics Application.exe.config
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\JD Electronics Application.exe.manifest
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\JD Electronics Application.application
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\JD Electronics Application.exe
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\JD Electronics Application.pdb
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.Shared.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\MetroFramework.Design.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\MetroFramework.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\MetroFramework.Fonts.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\EnvDTE.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\stdole.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD_Electronics_Application.Main_User_Controls.Search_Result_user_control.resources
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD Electronics Application.exe.manifest
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD Electronics Application.application
+E:\JD_Computers_And_Electronics\JD Electronics Application - Version 06\JD Electronics Application\obj\Debug\JD Elect.65E9CD04.Up2Date

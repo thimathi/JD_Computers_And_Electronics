@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GAD\\JD Electronics Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|d:\\gad\\jd electronics application\\jd electronics application\\main user controls\\manager user control\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|solutionrelative:jd electronics application\\main user controls\\manager user control\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|d:\\gad\\jd electronics application\\jd electronics application\\main user controls\\manager user control\\reports user control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|solutionrelative:jd electronics application\\main user controls\\manager user control\\reports user control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|d:\\gad\\jd electronics application\\jd electronics application\\main user controls\\manager user control\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|solutionrelative:jd electronics application\\main user controls\\manager user control\\salesreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|D:\\GAD\\JD Electronics Application\\jd electronics application\\salesdata.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|solutionrelative:jd electronics application\\salesdata.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|D:\\GAD\\JD Electronics Application\\jd electronics application\\salesreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|solutionrelative:jd electronics application\\salesreport.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|d:\\gad\\jd electronics application\\jd electronics application\\main user controls\\manager user control\\reports user control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|solutionrelative:jd electronics application\\main user controls\\manager user control\\reports user control.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|D:\\GAD\\JD Electronics Application\\jd electronics application\\login_ form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}|JD Electronics Application\\JD Electronics Application.csproj|solutionrelative:jd electronics application\\login_ form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "salesReport.cs",
+              "DocumentMoniker": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Main User Controls\\Manager User Control\\salesReport.cs",
+              "RelativeDocumentMoniker": "JD Electronics Application\\Main User Controls\\Manager User Control\\salesReport.cs",
+              "ToolTip": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Main User Controls\\Manager User Control\\salesReport.cs",
+              "RelativeToolTip": "JD Electronics Application\\Main User Controls\\Manager User Control\\salesReport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:19:53.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "salesReport.cs [Design]",
+              "DocumentMoniker": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Main User Controls\\Manager User Control\\salesReport.cs",
+              "RelativeDocumentMoniker": "JD Electronics Application\\Main User Controls\\Manager User Control\\salesReport.cs",
+              "ToolTip": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Main User Controls\\Manager User Control\\salesReport.cs [Design]",
+              "RelativeToolTip": "JD Electronics Application\\Main User Controls\\Manager User Control\\salesReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:15:38.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reports User Control.cs",
+              "DocumentMoniker": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Main User Controls\\Manager User Control\\Reports User Control.cs",
+              "RelativeDocumentMoniker": "JD Electronics Application\\Main User Controls\\Manager User Control\\Reports User Control.cs",
+              "ToolTip": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Main User Controls\\Manager User Control\\Reports User Control.cs",
+              "RelativeToolTip": "JD Electronics Application\\Main User Controls\\Manager User Control\\Reports User Control.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:11:16.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reports User Control.cs [Design]",
+              "DocumentMoniker": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Main User Controls\\Manager User Control\\Reports User Control.cs",
+              "RelativeDocumentMoniker": "JD Electronics Application\\Main User Controls\\Manager User Control\\Reports User Control.cs",
+              "ToolTip": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Main User Controls\\Manager User Control\\Reports User Control.cs [Design]",
+              "RelativeToolTip": "JD Electronics Application\\Main User Controls\\Manager User Control\\Reports User Control.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:11:12.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "salesReport.rdlc [Design]",
+              "DocumentMoniker": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\salesReport.rdlc",
+              "RelativeDocumentMoniker": "JD Electronics Application\\salesReport.rdlc",
+              "ToolTip": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\salesReport.rdlc [Design]",
+              "RelativeToolTip": "JD Electronics Application\\salesReport.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-06-09T04:46:06.94Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "salesData.xsd",
+              "DocumentMoniker": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\salesData.xsd",
+              "RelativeDocumentMoniker": "JD Electronics Application\\salesData.xsd",
+              "ToolTip": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\salesData.xsd",
+              "RelativeToolTip": "JD Electronics Application\\salesData.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-09T04:45:46.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login_ Form.cs [Design]",
+              "DocumentMoniker": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Login_ Form.cs",
+              "RelativeDocumentMoniker": "JD Electronics Application\\Login_ Form.cs",
+              "ToolTip": "D:\\GAD\\JD Electronics Application\\JD Electronics Application\\Login_ Form.cs [Design]",
+              "RelativeToolTip": "JD Electronics Application\\Login_ Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:30:19.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,746 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5654238D-A5FC-4EE3-A4BD-E941DC47A6D5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>JD_Electronics_Application</RootNamespace>
+    <AssemblyName>JD Electronics Application</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Thimathi\OneDrive\Desktop\JDCE\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>JD_Computers and Electronics</ProductName>
+    <PublisherName>2MBS Software Solution</PublisherName>
+    <SuiteName>JD_Computers and Electronics</SuiteName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>783DAE05CFA66437A59BF985796644BE6460A649</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>JD Electronics Application_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>JD software logo-011718297718.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1652.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrystalReport10.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport10.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport3.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport3.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport4.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport4.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport5.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport5.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport6.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport6.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport7.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport7.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport8.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport8.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReport9.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport9.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Accountant Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Accountant Dashboard.Designer.cs">
+      <DependentUpon>Accountant Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Administrator Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Administrator Dashboard.Designer.cs">
+      <DependentUpon>Administrator Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Cashier Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Cashier Dashboard.Designer.cs">
+      <DependentUpon>Cashier Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Worker Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Worker Dashboard.Designer.cs">
+      <DependentUpon>Worker Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Site Engineer Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Site Engineer Dashboard.Designer.cs">
+      <DependentUpon>Site Engineer Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Stock Manager Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Stock Manager Dashboard.Designer.cs">
+      <DependentUpon>Stock Manager Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home Panel\Home Accountant.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home Panel\Home Accountant.Designer.cs">
+      <DependentUpon>Home Accountant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home Panel\Home Adminstrator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home Panel\Home Adminstrator.Designer.cs">
+      <DependentUpon>Home Adminstrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home Panel\Home Cashier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home Panel\Home Cashier.Designer.cs">
+      <DependentUpon>Home Cashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home Panel\Home Site Enginer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home Panel\Home Site Enginer.Designer.cs">
+      <DependentUpon>Home Site Enginer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home Panel\Home Stock Manager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home Panel\Home Stock Manager.Designer.cs">
+      <DependentUpon>Home Stock Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home Panel\Home Worker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home Panel\Home Worker.Designer.cs">
+      <DependentUpon>Home Worker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JD_COMPUTER_LOCAL_005DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JD_COMPUTER_LOCAL_005DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="JD_COMPUTER_LOCAL_005DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>JD_COMPUTER_LOCAL_005DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Accountant UC\Pay Sheet User Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Accountant UC\Pay Sheet User Control.Designer.cs">
+      <DependentUpon>Pay Sheet User Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Accountant UC\Salary user Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Accountant UC\Salary user Control.Designer.cs">
+      <DependentUpon>Salary user Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Administrator User Control\Employee UC Admin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Administrator User Control\Employee UC Admin.Designer.cs">
+      <DependentUpon>Employee UC Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Cashier UC\Bill Estimate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Cashier UC\Bill Estimate.Designer.cs">
+      <DependentUpon>Bill Estimate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Cashier UC\Create Invoice.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Cashier UC\Create Invoice.Designer.cs">
+      <DependentUpon>Create Invoice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Cashier UC\Return Item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Cashier UC\Return Item.Designer.cs">
+      <DependentUpon>Return Item.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Reports\Available Stock Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Reports\Available Stock Report.Designer.cs">
+      <DependentUpon>Available Stock Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Reports\Business Analyst Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Reports\Business Analyst Report.Designer.cs">
+      <DependentUpon>Business Analyst Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Reports\Stock Buying Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Reports\Stock Buying Report.Designer.cs">
+      <DependentUpon>Stock Buying Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Reports\User Login Credential Report.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Reports\User Login Credential Report.Designer.cs">
+      <DependentUpon>User Login Credential Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Site Engineer UC\Project Progress uc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Site Engineer UC\Project Progress uc.Designer.cs">
+      <DependentUpon>Project Progress uc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Site Engineer UC\Project User Control SE.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Site Engineer UC\Project User Control SE.Designer.cs">
+      <DependentUpon>Project User Control SE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Stock Manager Usercontrol\Item UC StcokManager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Stock Manager Usercontrol\Item UC StcokManager.Designer.cs">
+      <DependentUpon>Item UC StcokManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Add Customer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Add Customer.Designer.cs">
+      <DependentUpon>Add Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Viewer Project user control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Viewer Project user control.Designer.cs">
+      <DependentUpon>Viewer Project user control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Schedule UC Worker.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Schedule UC Worker.Designer.cs">
+      <DependentUpon>Schedule UC Worker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Employee User Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Employee User Control.Designer.cs">
+      <DependentUpon>Employee User Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Financial User control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Financial User control.Designer.cs">
+      <DependentUpon>Financial User control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Worker Item UC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Worker Item UC.Designer.cs">
+      <DependentUpon>Worker Item UC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="paySheetReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>paySheetReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Reset Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reset Password.Designer.cs">
+      <DependentUpon>Reset Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub UserControl\Search Result user control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sub UserControl\Search Result user control.Designer.cs">
+      <DependentUpon>Search Result user control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Main User Controls\Manager User Control\Reports User Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Reports User Control.Designer.cs">
+      <DependentUpon>Reports User Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Schedule user control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Schedule user control.Designer.cs">
+      <DependentUpon>Schedule user control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Stock User Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Stock User Control.Designer.cs">
+      <DependentUpon>Stock User Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Supplier user Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\Supplier user Control.Designer.cs">
+      <DependentUpon>Supplier user Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\User Account_Panel_Form.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Manager User Control\User Account_Panel_Form.Designer.cs">
+      <DependentUpon>User Account_Panel_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home Panel\Home Manager.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Home Panel\Home Manager.Designer.cs">
+      <DependentUpon>Home Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\Manager Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\Manager Dashboard.Designer.cs">
+      <DependentUpon>Manager Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_ Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_ Form.Designer.cs">
+      <DependentUpon>Login_ Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Worker_User_Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Main User Controls\Worker UC\Worker_User_Control.Designer.cs">
+      <DependentUpon>Worker_User_Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sub UserControl\Profile User Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sub UserControl\Profile User Control.Designer.cs">
+      <DependentUpon>Profile User Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub UserControl\Customer Register Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub UserControl\Customer Register Form.Designer.cs">
+      <DependentUpon>Customer Register Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub UserControl\Customer Status Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub UserControl\Customer Status Form.Designer.cs">
+      <DependentUpon>Customer Status Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub UserControl\CustomerUpdate Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sub UserControl\CustomerUpdate Form.Designer.cs">
+      <DependentUpon>CustomerUpdate Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub UserControl\Help User Control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sub UserControl\Help User Control.Designer.cs">
+      <DependentUpon>Help User Control.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sub UserControl\Show Reset Form user control.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Sub UserControl\Show Reset Form user control.Designer.cs">
+      <DependentUpon>Show Reset Form user control.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CrystalReport10.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport10.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport2.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport3.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport3.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport4.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport4.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport5.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport5.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport6.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport6.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport7.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport7.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport8.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport8.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReport9.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport9.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Accountant Dashboard.resx">
+      <DependentUpon>Accountant Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Administrator Dashboard.resx">
+      <DependentUpon>Administrator Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Cashier Dashboard.resx">
+      <DependentUpon>Cashier Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Worker Dashboard.resx">
+      <DependentUpon>Worker Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Site Engineer Dashboard.resx">
+      <DependentUpon>Site Engineer Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Stock Manager Dashboard.resx">
+      <DependentUpon>Stock Manager Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home Panel\Home Accountant.resx">
+      <DependentUpon>Home Accountant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home Panel\Home Adminstrator.resx">
+      <DependentUpon>Home Adminstrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home Panel\Home Cashier.resx">
+      <DependentUpon>Home Cashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home Panel\Home Site Enginer.resx">
+      <DependentUpon>Home Site Enginer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home Panel\Home Stock Manager.resx">
+      <DependentUpon>Home Stock Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home Panel\Home Worker.resx">
+      <DependentUpon>Home Worker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Accountant UC\Pay Sheet User Control.resx">
+      <DependentUpon>Pay Sheet User Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Accountant UC\Salary user Control.resx">
+      <DependentUpon>Salary user Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Administrator User Control\Employee UC Admin.resx">
+      <DependentUpon>Employee UC Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Cashier UC\Bill Estimate.resx">
+      <DependentUpon>Bill Estimate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Cashier UC\Create Invoice.resx">
+      <DependentUpon>Create Invoice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Cashier UC\Return Item.resx">
+      <DependentUpon>Return Item.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Reports\Available Stock Report.resx">
+      <DependentUpon>Available Stock Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Reports\Business Analyst Report.resx">
+      <DependentUpon>Business Analyst Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Reports\Stock Buying Report.resx">
+      <DependentUpon>Stock Buying Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Reports\User Login Credential Report.resx">
+      <DependentUpon>User Login Credential Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Site Engineer UC\Project Progress uc.resx">
+      <DependentUpon>Project Progress uc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Site Engineer UC\Project User Control SE.resx">
+      <DependentUpon>Project User Control SE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Stock Manager Usercontrol\Item UC StcokManager.resx">
+      <DependentUpon>Item UC StcokManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Worker UC\Add Customer.resx">
+      <DependentUpon>Add Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Worker UC\Viewer Project user control.resx">
+      <DependentUpon>Viewer Project user control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Worker UC\Schedule UC Worker.resx">
+      <DependentUpon>Schedule UC Worker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Financial User control.resx">
+      <DependentUpon>Financial User control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Worker UC\Worker Item UC.resx">
+      <DependentUpon>Worker Item UC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="paySheetReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>paySheetReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reset Password.resx">
+      <DependentUpon>Reset Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Manager User Control\Employee User Control.resx">
+      <DependentUpon>Employee User Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Manager User Control\Reports User Control.resx">
+      <DependentUpon>Reports User Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Manager User Control\Schedule user control.resx">
+      <DependentUpon>Schedule user control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Manager User Control\Stock User Control.resx">
+      <DependentUpon>Stock User Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Manager User Control\Supplier user Control.resx">
+      <DependentUpon>Supplier user Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Manager User Control\User Account_Panel_Form.resx">
+      <DependentUpon>User Account_Panel_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home Panel\Home Manager.resx">
+      <DependentUpon>Home Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\Manager Dashboard.resx">
+      <DependentUpon>Manager Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_ Form.resx">
+      <DependentUpon>Login_ Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main User Controls\Worker UC\Worker_User_Control.resx">
+      <DependentUpon>Worker_User_Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Sub UserControl\Search Result user control.resx">
+      <DependentUpon>Search Result user control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub UserControl\Profile User Control.resx">
+      <DependentUpon>Profile User Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub UserControl\Customer Register Form.resx">
+      <DependentUpon>Customer Register Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub UserControl\Customer Status Form.resx">
+      <DependentUpon>Customer Status Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub UserControl\CustomerUpdate Form.resx">
+      <DependentUpon>CustomerUpdate Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub UserControl\Help User Control.resx">
+      <DependentUpon>Help User Control.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sub UserControl\Show Reset Form user control.resx">
+      <DependentUpon>Show Reset Form user control.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="JD Electronics Application_TemporaryKey.pfx" />
+    <None Include="JD_COMPUTER_LOCAL_005DataSet.xsc">
+      <DependentUpon>JD_COMPUTER_LOCAL_005DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JD_COMPUTER_LOCAL_005DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JD_COMPUTER_LOCAL_005DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JD_COMPUTER_LOCAL_005DataSet.xss">
+      <DependentUpon>JD_COMPUTER_LOCAL_005DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="JD_COMPUTER_LOCAL_005DataSet1.xsc">
+      <DependentUpon>JD_COMPUTER_LOCAL_005DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="JD_COMPUTER_LOCAL_005DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>JD_COMPUTER_LOCAL_005DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="JD_COMPUTER_LOCAL_005DataSet1.xss">
+      <DependentUpon>JD_COMPUTER_LOCAL_005DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="JD software logo-011718297718.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
